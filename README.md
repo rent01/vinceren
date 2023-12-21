@@ -6,12 +6,12 @@ I'm a Data Analyst. I'm also a college student and focusing on Bioinformatics an
 
 ### 🔨 Check out what I'm currently working on
 
-- [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
+- [rent01/Genomics](https://github.com/rent01/Genomics) - DNA sequencing assembly
 
 ### 📰 My latest projects
 
 - [rent01/Crawl-Projects](https://github.com/rent01/Crawl-Projects) - Crawling data from website
-- [rent01/Herbs](https://github.com/rent01/Herbs) - More details of crawling data
+- [rent01/Herbs](https://github.com/rent01/Herbs) - Collecting data from medicine platmore
 - [rent01/Winery](https://github.com/rent01/Winery) - 🔥 Collecting data from different winery website
 
 ### 👷 coming soon
